@@ -1,1 +1,1 @@
-Here ready to prit STL.
+Here ready to print STL.
